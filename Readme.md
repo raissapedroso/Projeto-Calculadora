@@ -1,0 +1,1 @@
+Olá, esse projeto ensina você a fazer uma calculadora com HTML, CSS e JavaScript!
